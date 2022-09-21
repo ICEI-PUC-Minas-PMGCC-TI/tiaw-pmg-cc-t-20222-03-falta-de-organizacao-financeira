@@ -4,16 +4,15 @@ Nosso projeto tem o intuito de apresentar de forma prática a importância da Ed
 
 ## Alunos integrantes da equipe
 
+* Daivid Jonatas
 * Márcio Emanuel
 * Maria Vitória
-* Matheus
-* Daivid Jonatas
-* Rafael
+* Matheus Aredes
+* Rafael Rodrigues
 
 ## Professores responsáveis
 
 * Rommel Vieira Carneiro
-
 
 ## Instruções de utilização
 
