@@ -1,21 +1,19 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Organização Financeira
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Ciência da Computação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+David Jonatas
+Márcio Emanuel
+Maria Vitória Cunha
+Matheus Aredes
+Rafael Rodrigues
 
 # Estrutura do Documento
 
@@ -54,108 +52,39 @@
 
 # Introdução
 
+Nosso projeto tem o intuito de apresentar de forma prática a importância da Educação Financeira. Como planejar seus gastos mensais para uma melhor qualidade de vida e mais segurança, permitindo que o usuário viva e desfrute do presente, mas com segurança e responsabilidade, para poupar e investir de forma correta e segura. Temos a intenção de criar uma plataforma simples, amigável para o usuário e que seja intuitivo, para servir como um aprendizado básico para dar início a bons hábitos relacionados ao seu bem estar financeiro.
+
 ## Problema
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O problema cujo o qual nos deparamos se refere a organização financeira e entendimento de finanças, que vai desde o descontrole financeiro, ou seja, gasta mais do que ganha, até o não entendimento de termos como ativos, como funcionam, rendimentos.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Esse projeto tem como objetivo auxiliar pessoas a se organizarem financeiramente, no controle de gastos, estipulação de renda, entendimento de ativos, iniciação a ativos e auxilio no entendimento de finanças, com textos e vídeos de terceiros para um melhor entendimento e fixação.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Nos dias de hoje em nosso país, e perceptível que as pessoas possuem interesse pelo tema finanças, não e atoa que é um dos temas que mais cresse nas mídias sociais. Não obstante disso e perceptível que muitos indivíduos tem o interesse, porém não tem a informação disponível de maneira fácil, ágil e simplificada.
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O nosso projeto tem o objetivo de levar informações para esses indivíduos, sejam eles jovens iniciando sua vida no mercado e por isso não sabem administra seu dinheiro, ou pessoas que só querem informações ou instruções na área de finança.
 
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
- 
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+O site será construído através o editor de código: Visual Studio Code. O mesmo será feito através das linguagens de programação: HTML, CSS e Javascript. Totalmente gratuito, e com o idioma em português.
+Nele será possível que a pessoa insira sua renda mensal, identificando, para onde seu dinheiro está indo e priorizando somente os setores de gastos necessários. Assim, o usuário conseguirá controlar seus gastos com eficiência e sem muita burocracia.
 
 ## Personas e Mapas de Empatia
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 
-> Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
-> você deve ser enumerar e descrever precisamente e de forma
-> personalizada todos os principais envolvidos com a solução almeja. 
-> 
-> Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Como fazer um mapa de empatia - Vídeo](https://www.youtube.com/watch?v=JlKHGpVoA2Y)
-> 
-> 
 > **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+
+> ![Persona 1](imaages/../images/persona.png)
+> ![Persona 2](imaages/../images/persona2.png)
 
 
 ## Histórias de Usuários
@@ -164,19 +93,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+|Gabriel		     | Registrar meus gastos              | Não gastar de forma irresponsável      |
+|David	           | Conhecer sobre investimentos       | Investir com mais segurança		   |
+|Geovana			|Me organizar financeiramente		| Ter uma gestão melhor do salário	   |
 
 ## Requisitos
 
@@ -262,7 +181,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 >
 > **Exemplo**:
 > 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+> ![UserFlow](images/userflow.jpg)
 
 
 ## Wireframes
@@ -274,13 +193,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > páginas. Um wireframe web é uma ilustração semelhante ao
 > layout de elementos fundamentais na interface.
 > 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
 > 
 > ![Exemplo de Wireframe](images/wireframe-example.png)
 
@@ -289,21 +201,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Em nosso projeto, estamos utilizados uma metodologia analítica e democrática. Fazendo reuniões
+quase todos os dias para que os integrantes exponham suas ideias e visões para o trabalho, após isso
+realizamos um debate sobre as ideias e possíveis implementações. após tudo isso iniciamos o processo
+de criação e modificação do que foi exposto e combinado no grupo. Tendo em vista isso que foi
+relatado posterior mente, nosso grupo não possui funções pré-determinadas. Todos se reúnem para
+realizar o que foi decidido.
+
 
 ## Divisão de Papéis
 
